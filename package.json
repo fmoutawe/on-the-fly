@@ -1,0 +1,32 @@
+{
+  "name": "on-the-fly",
+  "version": "0.0.1",
+  "description": "On The fly",
+  "main": "Gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivelfan/on-the-fly.git"
+  },
+  "keywords": [
+    "on",
+    "the",
+    "fly"
+  ],
+  "author": "Flavien Moutawe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivelfan/on-the-fly/issues"
+  },
+  "homepage": "https://github.com/ivelfan/on-the-fly#readme",
+  "devDependencies": {
+    "@babel/core": "^7.0.0-beta.40",
+    "@babel/preset-env": "^7.0.0-beta.40",
+    "@babel/register": "^7.0.0-beta.40",
+    "gulp": "^4.0.0",
+    "gulp-typescript": "^4.0.1",
+    "typescript": "^2.7.2"
+  }
+}
